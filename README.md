@@ -15,3 +15,5 @@ Share your logijs creations here.
     └── 📁Dependencies
         └──📄(your dependencies)
 ```
+## Examples
+For examples see other peoples creations OR the example: [EXAMPLE](https://github.com/Dangerdangerau/Logijs-creations/tree/community/16_bit_encoder)
